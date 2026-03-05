@@ -1,4 +1,4 @@
-## Hi there 👋 teste 01
+## teste 01
 
 <!--
 **meninoclassico/meninoclassico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
