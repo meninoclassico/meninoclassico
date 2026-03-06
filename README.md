@@ -1,6 +1,7 @@
 ## Gato Rezando 🐱​🙏​
 Nome: Arthur Emanuel Da Silva
-aluno tec. ensino médio do maria vera lombardi siqueira
+
+Sou: aluno tec. ensino médio do maria vera lombardi siqueira
 
 
 
