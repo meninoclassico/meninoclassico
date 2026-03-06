@@ -1,5 +1,10 @@
-## gato rezando
+## Gato Rezando 🐱​🙏​
+Nome: Arthur Emanuel Da Silva
+aluno tec. ensino médio do maria vera lombardi siqueira
 
-<!--
-**meninoclassico/meninoclassico** é um repositoria especial `README.md` (esse arquivo) vai aparecer no seu perfil do github.
-quero dormi
+
+
+## Aprendendo no momento
+Html , CSS , JS
+Githubs
+SQL , .I.A.
