@@ -6,7 +6,7 @@ aluno tec. ensino médio do maria vera lombardi siqueira
 
 ## Aprendendo no momento
  Html , CSS , JS
- Githubs
+ , Githubs ,
  SQL , .I.A.
 
 
